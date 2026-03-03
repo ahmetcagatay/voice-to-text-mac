@@ -14,6 +14,8 @@ Read the instructions at https://raw.githubusercontent.com/ahmet-cagatay/voice-t
 
 That's it. Claude Code handles the rest.
 
+> **Tip:** If you don't want Claude to ask permission for every step, start it with `claude --dangerously-skip-permissions` and it will run the entire setup automatically.
+
 ## How it works
 
 - **Right Cmd** → speak → **Right Cmd** again (toggle mode)
